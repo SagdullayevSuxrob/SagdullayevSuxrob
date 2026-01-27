@@ -1,43 +1,19 @@
-## 👋 Hi, I'm Suxrob
+## 👋 Hi, I'm Suxrob  
+### 💻 PHP / Laravel Developer
 
-🎯 Junior Backend Developer (PHP / Laravel)
-
----
-
-### 🧑‍💻 About me
-- 🌱 I’m currently learning **Laravel & MySQL**
-- 💻 I build small backend projects
-- 🎯 Goal: become a strong Backend Developer
-
----
-
-### 🛠 Tech Stack
-- PHP
-- Laravel
-- MySQL
-- HTML, CSS
-- Git & GitHub
-
----
-
-### 📌 What I have learned
-- MVC architecture
-- CRUD operations
-- Authentication & Authorization
-- Laravel Relationships
-- File upload & storage
-- Validation & Form Request
-- Cache & Helpers
+I am a junior back-end developer learning Laravel and building real projects 🚀
 
 ---
 
 ### 🔗 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sagdullayev_suxrob)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagdullayev_suxrob)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sagdullayevsuxrob)
-
+[![Telegram](https://img.shields.io/badge/Sagdullayev_Suxrob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sagdullayev_suxrob)
+[![Instagram](https://img.shields.io/badge/Sagdullayev_Suxrob-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sagdullayev_suxrob)
+[![YouTube](https://img.shields.io/badge/SagdullayevSuxrob-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sagdullayevsuxrob)
 
 ---
 
-⭐ Thank you for visiting my profile!
+### 🛠 Technologies
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
