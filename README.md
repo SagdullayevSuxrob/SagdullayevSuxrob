@@ -32,9 +32,9 @@
 ---
 
 ### 🔗 Connect with me
-- 📷 Instagram: https://instagram.com/username
-- ▶️ YouTube: https://youtube.com/@username
-- ✈️ Telegram: https://t.me/username
+- 📷 Instagram: https://instagram.com/sagdullayev_suxrob
+- ▶️ YouTube: https://youtube.com/@sagdullayevsuxrob
+- ✈️ Telegram: https://t.me/sagdullayev_suxrob
 
 ---
 
