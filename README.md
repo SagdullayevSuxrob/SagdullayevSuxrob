@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hi, I'm Suxrob
 
-<!--
-**SagdullayevSuxrob/SagdullayevSuxrob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Backend Developer (PHP / Laravel)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About me
+- 🌱 I’m currently learning **Laravel & MySQL**
+- 💻 I build small backend projects
+- 🎯 Goal: become a strong Backend Developer
+
+---
+
+### 🛠 Tech Stack
+- PHP
+- Laravel
+- MySQL
+- HTML, CSS
+- Git & GitHub
+
+---
+
+### 📌 What I have learned
+- MVC architecture
+- CRUD operations
+- Authentication & Authorization
+- Laravel Relationships
+- File upload & storage
+- Validation & Form Request
+- Cache & Helpers
+
+---
+
+### 🔗 Connect with me
+- 📷 Instagram: https://instagram.com/username
+- ▶️ YouTube: https://youtube.com/@username
+- ✈️ Telegram: https://t.me/username
+
+---
+
+⭐ Thank you for visiting my profile!
