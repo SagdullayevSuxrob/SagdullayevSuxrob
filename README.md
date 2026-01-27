@@ -32,9 +32,11 @@
 ---
 
 ### 🔗 Connect with me
-- 📷 Instagram: https://instagram.com/sagdullayev_suxrob
-- ▶️ YouTube: https://youtube.com/@sagdullayevsuxrob
-- ✈️ Telegram: https://t.me/sagdullayev_suxrob
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@username)
+
 
 ---
 
