@@ -8,9 +8,9 @@ Focused on clean code, backend logic, and real practice.
 
 ### 🔗 Connect with me
 
-[![Telegram](https://img.shields.io/badge/Sagdullayev_Suxrob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sagdullayev_Suxrob)
-[![Instagram](https://img.shields.io/badge/Sagdullayev_Suxrob-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Sagdullayev_Suxrob)
-[![YouTube](https://img.shields.io/badge/SagdullayevSuxrob-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SagdullayevSuxrob)
+[![Telegram](https://img.shields.io/badge/Sagdullayev_Suxrob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Sagdullayev_Suxrob)
+[![Instagram](https://img.shields.io/badge/Sagdullayev_Suxrob-E4405F?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/Sagdullayev_Suxrob)
+[![YouTube](https://img.shields.io/badge/SagdullayevSuxrob-FF0000?style=for-the-badge&logo=youtube&logoColor=red)](https://youtube.com/@SagdullayevSuxrob)
 
 ---
 
