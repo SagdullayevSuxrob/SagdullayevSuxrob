@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Suxrob  
+## 👋 Hi, I'm Sagdullayev Suxrob
 ### 💻 PHP / Laravel Developer
 
 I am a junior back-end developer learning Laravel and building real projects 🚀  
