@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Sagdullayev Suxrob
+## I'm Sagdullayev Suxrob
 ### 💻 PHP / Laravel Developer
 
-### 🔗 Connect with me
+### 🔗 Contact with me
 
 [![Telegram](https://img.shields.io/badge/Sagdullayev_Suxrob-2CA5E0?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Sagdullayev_Suxrob)
 [![Instagram](https://img.shields.io/badge/Sagdullayev_Suxrob-E4405F?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/Sagdullayev_Suxrob)
