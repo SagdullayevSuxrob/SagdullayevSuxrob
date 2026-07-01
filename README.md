@@ -31,7 +31,7 @@ Backend Developer with practical experience developing commercial web applicatio
 
 I specialize in designing **RESTful APIs**, building scalable backend architectures, and working with **PostgreSQL** and **MySQL**.
 
-Experienced in authentication & authorization, payment system integration, media management, SQL optimization, and clean architecture.
+Experienced in implementing authentication and authorization, payment system integration, media management, SQL optimization, and clean architecture.
 
 - 💼 Backend Developer
 - 🌍 Tashkent, Uzbekistan
