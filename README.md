@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./github_banner.gif" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Sukhrob Sagdullayev</h1>
 
 <h3 align="center">Backend Developer | PHP • Laravel • REST APIs</h3>
