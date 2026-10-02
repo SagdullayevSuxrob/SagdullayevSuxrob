@@ -1,134 +1,296 @@
 <p align="center">
-  <img src="https://github.com/Xurshid0625/Xurshid0625/blob/main/github_banner.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:17212B,100:203A43&height=180&section=header&text=Sukhrob%20Sagdullayev&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20PHP%20%7C%20Laravel&descAlignY=55&descSize=18" width="100%" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Sukhrob Sagdullayev</h1>
 
-<h3 align="center">Backend Developer | PHP • Laravel • REST APIs</h3>
-
 <p align="center">
-Building scalable backend systems, commercial web applications, and reliable RESTful APIs.
+  <strong>Backend Developer · PHP · Laravel · REST APIs</strong>
 </p>
 
 <p align="center">
+  Building and maintaining backend systems, REST APIs, business logic, and database-driven applications.
+</p>
 
-<a href="mailto:suxrobsagdullayev5@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sukhrob-sagdullayev">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://t.me/sagdullayev_suxrob">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
-</a>
-
+<p align="center">
+  <a href="mailto:suxrobsagdullayev5@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/sukhrob-sagdullayev/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://t.me/Sagdullayev_Suxrob">Telegram</a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-Backend Developer with practical experience developing commercial web applications using **PHP** and **Laravel**.
+Backend Developer specializing in **PHP and Laravel**, with commercial experience developing and maintaining backend systems.
 
-I specialize in designing **RESTful APIs**, building scalable backend architectures, and working with **PostgreSQL** and **MySQL**.
+I work with REST APIs, business logic, relational databases, caching, authentication, payment integrations, and backend refactoring.
 
-Experienced in implementing authentication and authorization, payment system integration, media management, SQL optimization, and clean architecture.
-
-- 💼 Backend Developer
-- 🌍 Tashkent, Uzbekistan
-- 📚 Currently learning Software Architecture & System Design
-- 🎯 Interested in scalable backend systems
-- 📫 Reach me: **suxrobsagdullayev5@gmail.com**
+Currently working at **Digital Content Delivery (DCD)** on multiple projects within the **iWon ecosystem**.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Core Expertise
 
-### Backend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
+### Backend Development
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOLID-FF9800?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Repository_Pattern-5C6BC0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Service_Layer-546E7A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Query_Builder-2196F3?style=for-the-badge"/>
-
-</p>
-
-### DevOps & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-## 🚀 Social Network Backend
-
-**Laravel • PostgreSQL • REST API**
-
-Backend for a commercial social networking platform featuring:
-
+- PHP / Laravel
+- REST API Development
+- Business Logic
 - Authentication & Authorization
-- Comments
-- Reports & Moderation
-- Stories
-- Media Upload
-- SQL Optimization
-- Role-based Access Control
+- API Integrations
+- Backend Refactoring
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🚖 Taxi Booking Backend
+### Architecture
 
-**Laravel • PostgreSQL • REST API**
+- Action
+- Service
+- Repository
+- DTO
+- RepoAction
+- OOP
 
-Backend for a taxi booking platform including:
+</td>
+</tr>
 
-- Ride Management
-- Payment Integration (Click, Payme)
-- Authentication
-- User Management
+<tr>
+<td width="50%" valign="top">
+
+### Database Engineering
+
+- PostgreSQL
+- MySQL
+- SQL
 - Database Design
-- API Development
+- Query Optimization
 
+</td>
+<td width="50%" valign="top">
+
+### Performance & Infrastructure
+
+- Redis Caching
+- Docker
+- Git / GitLab
+- Postman
+- WebSocket
+- HTTP / JSON
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔥 Contribution Streak
+## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SagdullayevSuxrob&theme=transparent&hide_border=true"/>
-
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,redis,docker,git,github,gitlab,postman" />
 </p>
 
 ---
+
+## 💼 Professional Experience
+
+### Digital Content Delivery (DCD) — iWon
+
+**Backend Developer** · `03/2026 — Present`
+
+Working on multiple projects within the iWon ecosystem.
+
+#### iWon Social
+
+- Refactoring existing backend code
+- Fixing bugs and implementing updates
+- Working with the notification system
+- Maintaining existing backend functionality
+
+#### QuestGo
+
+Developed the **internal currency accounting functionality from scratch**:
+
+- Coin credits and debits
+- Transaction creation and storage
+- Transaction history
+- Hint purchases using coins
+- Related notifications
+- Internal currency business logic
+
+#### iWon Market
+
+Worked on the seller side of the marketplace backend:
+
+- Refactored seller functionality
+- Migrated Seller functionality into a separate Laravel module
+- Worked with Action, Service, Repository, DTO, and RepoAction patterns
+- Developed Product, Shop, ShopLocation, and ProductLocationProperty functionality
+- Implemented product photo uploads and product imports
+- Implemented validation and seller business logic
+- Worked with PostgreSQL and MySQL
+- Implemented Redis caching for map-related data
+
+---
+
+### Yulchi (Uputi Taxi)
+
+**Backend Developer | PHP, Laravel** · `06/2025 — 03/2026`
+
+Ride-sharing and trip service where both passengers and drivers could publish trip requests based on routes and directions.
+
+- Developed backend functionality with PHP/Laravel
+- Implemented route-based trip posting logic
+- Developed REST APIs for users, trips, and orders
+- Integrated Click and Payme payment systems
+- Integrated mapping and geolocation services
+- Worked with PostgreSQL, Redis, and Docker
+- Implemented authentication and basic authorization
+
+---
+
+## 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛍 iWon Market
+
+**PHP · Laravel · PostgreSQL · MySQL · Redis**
+
+Marketplace backend focused on seller functionality.
+
+- Seller module
+- Laravel modularization
+- Products & Shops
+- Imports & media
+- Validation
+- Redis caching
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎮 QuestGo
+
+**PHP · Laravel · PostgreSQL**
+
+Quest-based game with an internal coin system.
+
+- Coin credits & debits
+- Transactions
+- Transaction history
+- Hint purchases
+- Notifications
+- Business logic
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧩 iWon Social
+
+**PHP · Laravel · REST API**
+
+Social networking functionality within the iWon ecosystem.
+
+- Backend refactoring
+- Bug fixing
+- Feature updates
+- Notifications
+- Existing code maintenance
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚕 Yulchi (Uputi Taxi)
+
+**PHP · Laravel · PostgreSQL · Redis · Docker**
+
+Ride-sharing and trip service based on routes and directions.
+
+- REST APIs
+- Trip logic
+- Payments
+- Mapping
+- Authentication
+- Caching
+
+</td>
+</tr>
+</table>
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SagdullayevSuxrob&show_icons=true&hide_border=true&theme=transparent&rank=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagdullayevSuxrob&layout=compact&hide_border=true&theme=transparent&langs_count=6" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=SagdullayevSuxrob&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <strong>Backend Architecture</strong>
+  &nbsp;•&nbsp;
+  <strong>System Design</strong>
+  &nbsp;•&nbsp;
+  <strong>Database Design</strong>
+  &nbsp;•&nbsp;
+  <strong>Application Performance</strong>
+</p>
+
+---
+
+## 🎓 Education
+
+**Jizzakh Polytechnic Institute**  
+Logistics and Supply Chain Management  
+`2025 — 2026` · Incomplete Bachelor's Education
+
+---
+
+## 🌍 Languages
+
+| Language | Level |
+| --- | --- |
+| 🇺🇿 Uzbek | Native |
+| 🇷🇺 Russian | Intermediate (B1) |
+| 🇬🇧 English | Intermediate (B1) |
+
+---
+
+## 🤝 Open to Opportunities
+
+Open to **Backend Developer** opportunities focused on:
+
+**PHP · Laravel · REST APIs · PostgreSQL · MySQL · Redis**
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:suxrobsagdullayev5@gmail.com">📧 Email</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/sukhrob-sagdullayev/">💼 LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://t.me/Sagdullayev_Suxrob">💬 Telegram</a>
+</p>
